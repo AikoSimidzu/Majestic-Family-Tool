@@ -1,0 +1,2 @@
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\bin\Release\net8.0-windows7.0\win-x86\app.publish\Majestic Family Tool.pdb
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\bin\Release\net8.0-windows7.0\win-x86\app.publish\Majestic Family Tool.exe

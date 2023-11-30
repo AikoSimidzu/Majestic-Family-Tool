@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZIU3nvdlplIzwJbdizFktPXfXZGv2CNmyLhw6w9rqXM+4wmZ/p64P85TNzhh2l8bAux6+xHzPr1FMlEDypGPzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\steal\\source\\repos\\Majestic Family Tool\\Majestic Family Tool\\Majestic Family Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steal\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
+    "C:\\Users\\steal\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\steal\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.0\\microsoft.netcore.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\steal\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\steal\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\steal\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.0\\microsoft.netcore.app.crossgen2.win-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

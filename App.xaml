@@ -1,0 +1,27 @@
+﻿<Application x:Class="Majestic_Family_Tool.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Majestic_Family_Tool"
+             xmlns:viewModel="clr-namespace:Majestic_Family_Tool.MVVM.ViewModel"
+             xmlns:view="clr-namespace:Majestic_Family_Tool.Panels"
+             StartupUri="MainWindow.xaml">
+    
+    <Application.Resources>
+        <ResourceDictionary>
+            <DataTemplate DataType="{x:Type viewModel:AddPayViewModel}">
+                <view:PaymentPanel/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:TableViewModel}">
+                <view:TablePanel/>
+            </DataTemplate>
+
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Styles/ButtonStyles.xaml"/>
+                <ResourceDictionary Source="/Styles/DGStyles.xaml"/>
+                <ResourceDictionary Source="/Styles/ScrollBars.xaml"/>
+                <ResourceDictionary Source="/Styles/ContextMenus.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

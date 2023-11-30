@@ -1,0 +1,39 @@
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\bin\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.deps.json
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\bin\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.runtimeconfig.json
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\bin\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.exe
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\bin\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.dll
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\bin\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.pdb
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\bin\Release\net8.0-windows7.0\win-x86\MahApps.Metro.IconPacks.Core.dll
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\bin\Release\net8.0-windows7.0\win-x86\MahApps.Metro.IconPacks.Material.dll
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.csproj.AssemblyReference.cache
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Styles\ButtonStyles.baml
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Styles\ContextMenus.baml
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Styles\DGStyles.baml
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Styles\ScrollBars.baml
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\MainWindow.g.cs
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Panels\PaymentPanel.g.cs
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Panels\TablePanel.g.cs
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\UserMessage\Message.g.cs
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\App.g.cs
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\GeneratedInternalTypeHelper.g.cs
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool_MarkupCompile.cache
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool_MarkupCompile.lref
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\App.baml
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\MainWindow.baml
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Panels\PaymentPanel.baml
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Panels\TablePanel.baml
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\UserMessage\Message.baml
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.g.resources
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic_Family_Tool.Properties.Resources.resources
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.csproj.GenerateResource.cache
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.AssemblyInfoInputs.cache
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.AssemblyInfo.cs
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.csproj.CoreCompileInputs.cache
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.genruntimeconfig.cache
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.csproj.CopyComplete
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.dll
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\refint\Majestic Family Tool.dll
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool.pdb
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\ref\Majestic Family Tool.dll
+C:\Users\steal\source\repos\Majestic Family Tool\Majestic Family Tool\obj\Release\net8.0-windows7.0\win-x86\Majestic Family Tool_Content.g.cs
